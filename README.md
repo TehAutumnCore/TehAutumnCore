@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gary-rojas-647248160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gary-rojas-647248160" height="30" width="40" /></a>
-<a href="[https://stackoverflow.com/users/gary-rojas](https://stackoverflow.com/users/19988265/gary-rojas)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gary-rojas" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19988265/gary-rojas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gary-rojas" height="30" width="40" /></a>
 <a href="https://instagram.com/tehautumncore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tehautumncore" height="30" width="40" /></a>
 </p>
 
