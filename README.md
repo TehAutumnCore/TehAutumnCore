@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gary</h1>
-<h3 align="center">A USAF Veteran and passionate Full Stack Software Engineer from Boston, MA.</h3>
+<h3 align="center">A USAF Veteran and passionate Full Stack Software Engineer in Providence, RI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tehautumncore&label=Profile%20views&color=0e75b6&style=flat" alt="tehautumncore" /> </p>
 
