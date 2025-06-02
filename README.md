@@ -1,6 +1,7 @@
 # 💫 About Me:
 I'm a Full-Stack Software Engineer, Veteran, and Undergrad Graduate. I enjoy problem solving, meeting new people, and learning new Tech!  
 
+Currently I'm learning C#/.NET, ASP.NET, T-SQL, AZURE, & .NET MAUI
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/W3BRv3A6) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tehautumncore/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gary-rojas-647248160/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/19988265/gary-rojas) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/tehautumncore) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@TehAutumnCore) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Rojas.Gary.J@outlook.com) 
